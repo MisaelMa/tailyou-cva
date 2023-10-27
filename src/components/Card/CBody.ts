@@ -6,10 +6,12 @@ export const card = cva('flex items-center text-center rounded-lg bg-slate-200',
       default: ' flex items-center text-center rounded-lg bg-slate-200',
       secundary:
         'bg-white shadow-lg shadow-slate-900/70 rounded-b-lg mx-2 flex flex-col items-center text-center',
+      third: 'flex items-center py-6 bg-white ',
     },
     size: {
       default: 'w-60 h-24 mx-1 mt-4 ',
       large: 'w-52 h-80 -mx-1 mt-4',
+      third: 'w-full h-auto',
     },
   },
   defaultVariants: {
