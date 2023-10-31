@@ -6,3 +6,4 @@ export * from './components/TableModal';
 export * from './components/Select';
 export * from './components/Sidebar';
 export { iFile } from './components/IFile';
+export * from './components/Carousels';

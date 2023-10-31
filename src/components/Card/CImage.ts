@@ -9,6 +9,7 @@ export const cardImage = cva('', {
     sizeImage: {
       default: 'w-20 h-20 ',
       full: 'h-64 w-48',
+      little: 'h-24 w-28',
     },
   },
   defaultVariants: {
