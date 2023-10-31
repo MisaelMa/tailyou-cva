@@ -5,11 +5,13 @@ export const cardImage = cva('', {
     variantImage: {
       default: 'rounded-lg mx-2',
       secundary: 'rounded-none w-full',
+      third: 'rounded-lg mx-2',
     },
     sizeImage: {
       default: 'w-20 h-20 ',
       full: 'h-64 w-48',
       little: 'h-24 w-28',
+      third: 'h-auto w-32',
     },
   },
   defaultVariants: {
