@@ -8,5 +8,9 @@ export * from './components/Sidebar';
 export { iFile } from './components/IFile';
 export * from './components/Carousels';
 export * from './components/List';
-export { ButtonCar } from './components/ButtonCar'
-export * from './components/Car'
+export { ButtonCar } from './components/ButtonCar';
+export * from './components/Car';
+export { cardGral } from './components/CardGeneral';
+export * from './components/ItemList';
+export * from './components/HeaderCard';
+export { spanPoint } from './components/SpanPoint';
