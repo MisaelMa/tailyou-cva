@@ -6,6 +6,7 @@ export const TTr = cva(
     variants: {
       Vtr: {
         default: 'border',
+        second: 'border-white',
       },
     },
     defaultVariants: {

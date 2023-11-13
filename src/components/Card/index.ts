@@ -5,6 +5,7 @@ export const card = cva('', {
       default: 'border shadow-lg bg-white rounded-md',
       boxContent: 'bg-white box-border',
       smll: 'object-cover rounded border',
+      sstyle: 'bg-white mx-2'
     },
 
     size: {

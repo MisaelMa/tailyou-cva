@@ -4,7 +4,8 @@ export const TTable = cva('', {
     Vtable: {
       default:
         ' rounded-lg border border-collapse min-w-full border-gray-300 overflow-hidden',
-      destructive: '',
+      second:
+        'w-full flex-auto border-white overflow-hidden',
       ghost: '',
     },
   },
