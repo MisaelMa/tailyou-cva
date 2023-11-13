@@ -1,8 +1,8 @@
 import { cva } from 'class-variance-authority';
-export const headerContent = cva('', {
+export const separateToolArea = cva('', {
   variants: {
     variant: {
-      default: 'flex justify-between',
+      default: 'flex border border-gray-700 w-full',
     },
   },
   defaultVariants: {

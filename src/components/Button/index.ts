@@ -18,7 +18,7 @@ export const button = cva(
         cancel:
           'bg-red-700 text-white hover:bg-red-800 dark:bg-red-200 dark:text-red-900 dark:hover:bg-red-100',
         confirm:
-          'bg-green-700 text-white hover:bg-green-800 dark:bg-green-200 dark:text-green-900 dark:hover:bg-green-100 w-full',
+          'bg-green-700 text-white hover:bg-green-800 dark:bg-green-200 dark:text-green-900 dark:hover:bg-green-100',
       },
 
       size: {
