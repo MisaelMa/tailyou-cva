@@ -6,6 +6,7 @@ export const card = cva('', {
       boxContent: 'bg-white box-border',
       smll: 'object-cover rounded border',
       ul: 'bg-[#eff2f5] border rounded border-[#c9cccf] p-[10px]',
+      sstyle: 'bg-white mx-2',
     },
 
     size: {
