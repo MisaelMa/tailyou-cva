@@ -4,6 +4,8 @@ export const inputImgBox = cva('', {
     variant: {
       default:
         'relative w-72 h-72 border-2 border-dashed border-gray-300 flex items-center justify-center ',
+      banner:
+        'relative w-60 h-72 border-2 border-dashed border-gray-300 flex items-center justify-center',
     },
   },
   defaultVariants: {
