@@ -5,7 +5,8 @@ export const card = cva('', {
       default: 'border shadow-lg bg-white rounded-md',
       boxContent: 'bg-white box-border',
       smll: 'object-cover rounded border',
-      sstyle: 'bg-white mx-2'
+      ul: 'bg-[#eff2f5] border rounded border-[#c9cccf] p-[10px]',
+      sstyle: 'bg-white mx-2',
     },
 
     size: {
@@ -15,6 +16,11 @@ export const card = cva('', {
       autoHcard: 'w-[39rem] h-auto',
       boxContent: 'w-auto h-auto',
       smll: 'w-12 h-12 mr-4',
+      xsmll: 'w-8 h-8',
+      auto: 'w-auto h-auto',
+      chartCardauto: 'w-[39rem] h-auto',
+      miniChartCardauto: 'w-[17rem] h-auto',
+      fullW: 'w-full h-auto',
     },
   },
   defaultVariants: {

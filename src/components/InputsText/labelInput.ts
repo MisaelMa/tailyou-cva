@@ -1,8 +1,8 @@
 import { cva } from 'class-variance-authority';
-export const headerOption = cva('', {
+export const labelInput = cva('', {
   variants: {
     variant: {
-      default: 'text-blue-500 hover:underline text-sm',
+      default: 'block text-sm  text-gray-700',
     },
   },
   defaultVariants: {
