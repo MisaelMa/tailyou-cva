@@ -8,6 +8,8 @@ export const chip = cva('', {
         'inline-flex items-center px-4 py-1 bg-green-300 text-gray-800 rounded-3xl',
       danger:
         'inline-flex items-center px-4 py-1 bg-red-300 text-gray-800 rounded-3xl',
+      warning:
+        'inline-flex items-center px-4 py-1 bg-yellow-300 text-gray-800 rounded-3xl',
     },
     size: {
       default: 'text-base',
