@@ -21,3 +21,4 @@ export { inputImgBox } from './components/InputImagenBox';
 export { imagenInput } from './components/InputImagen';
 export { checkBox } from './components/CheckBox';
 export { chip } from './components/Chip';
+export * from './components/Dialog';
