@@ -21,6 +21,7 @@ export const card = cva('', {
       chartCardauto: 'w-[39rem] h-auto',
       miniChartCardauto: 'w-[17rem] h-auto',
       fullW: 'w-full h-auto',
+      dialogBig: 'w-[33rem] h-[33rem]',
     },
   },
   defaultVariants: {
