@@ -21,6 +21,7 @@ export const button = cva(
           'bg-green-700 text-white hover:bg-green-800 dark:bg-green-200 dark:text-green-900 dark:hover:bg-green-100',
         slate:
           'bg-white text-black  dark:text-black dark:hover:bg-slate-100 border border-black',
+        text: 'text-blue-700',
       },
 
       size: {
