@@ -7,6 +7,7 @@ export const TTr = cva(
       Vtr: {
         default: 'border',
         second: 'border-white',
+        flat: 'border border-slate-200 m-2',
       },
     },
     defaultVariants: {

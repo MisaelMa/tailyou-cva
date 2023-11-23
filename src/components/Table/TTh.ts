@@ -7,6 +7,7 @@ export const TTh = cva(
       Vth: {
         default: '  ',
         second: 'font-normal font-light',
+        flat: 'item center m-2'
       },
     },
     defaultVariants: {
