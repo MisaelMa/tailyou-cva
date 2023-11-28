@@ -9,6 +9,7 @@ export const TBody = cva(
         destructive: 'bg-black-300',
         second: 'bg-white',
         flat: 'bg-white m-2',
+        hidenLines3: 'bg-white text-center border-hidden',
       },
     },
     defaultVariants: {
