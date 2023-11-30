@@ -3,7 +3,7 @@ export const auxilaryInput = cva('', {
   variants: {
     variant: {
       default:
-        'absolute inset-y-0 right-0 flex items-center pr-3 text-gray-700',
+        'absolute inset-y-0 justify-self-end flex items-center pr-3 text-gray-700',
     },
   },
   defaultVariants: {
