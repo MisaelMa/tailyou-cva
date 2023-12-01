@@ -1,9 +1,9 @@
 import { cva } from 'class-variance-authority';
-export const switchCaseContent = cva('', {
+export const switchCaseContentFalse = cva('', {
   variants: {
     variant: {
       default:
-        'bg-gray-900 relative rounded-full transition duration-200 ease-in-out focus:outline-none cursor-pointer',
+        ' bg-gray-300 relative rounded-full transition duration-200 ease-in-out focus:outline-none cursor-pointer',
     },
     size: {
       default: 'w-10 h-5',
